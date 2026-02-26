@@ -53,7 +53,6 @@ Feature engineering:
 - Promoter/series extraction
 
 **Dashboard Features**
-The interactive dashboard includes:
 
   Filters:
   - Date range selector
