@@ -52,50 +52,44 @@ Feature engineering:
 - Attendance categories
 - Promoter/series extraction
 
-Dashboard Features
+**Dashboard Features**
 The interactive dashboard includes:
-Filters:
 
-Date range selector
-Genre filter
-Venue filter
-Day of week filter
+  Filters:
+  - Date range selector
+  - Genre filter
+  - Venue filter
+  - Day of week filter
 
-Visualizations:
+  Visualizations:
+  - Time series of events and RSVPs
+  - Genre and venue breakdowns
+  - Event timing patterns
+  - Promoter rankings
+  - Correlation analysis
 
-Time series of events and RSVPs
-Genre and venue breakdowns
-Event timing patterns
-Promoter rankings
-Correlation analysis
-
-Data Explorer:
-
-Searchable event table
-Sortable columns
-CSV download
+  Data Explorer:
+  - Searchable event table
+  - Sortable columns
+  - CSV download
 
 Analysis Methods
-Statistical Testing:
-
-T-tests for group comparisons
-Chi-square tests for independence
-Correlation analysis
+- Statistical Testing:
+- T-tests for group comparisons
+- Chi-square tests for independence
+- Correlation analysis
 
 Machine Learning:
-
-K-means clustering for market segmentation
-Random Forest for RSVP prediction
-Feature importance analysis
+- K-means clustering for market segmentation
+- Random Forest for RSVP prediction
+- Feature importance analysis
 
 Time Series:
+- Weekly aggregation
+- Seasonality detection
+- Trend analysis
 
-Weekly aggregation
-Seasonality detection
-Trend analysis
-
-Technical Stack
-
+**Technical Stack**
 Python 3.9+
 Pandas - Data manipulation
 NumPy - Numerical operations
