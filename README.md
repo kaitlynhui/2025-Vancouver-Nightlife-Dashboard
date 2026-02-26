@@ -1,6 +1,6 @@
 # 2025-Vancouver-Nightlife-Dashboard
 
-**Vancouver Nightlife Data Analysis**
+**Vancouver Nightlife Data Analysis** <br>
 A data analysis dashboard exploring Vancouver's electronic music scene using event data from Resident Advisor.
 
 **About This Project**
