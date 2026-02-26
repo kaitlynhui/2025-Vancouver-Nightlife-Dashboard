@@ -3,7 +3,7 @@
 **Vancouver Nightlife Data Analysis** <br>
 A data analysis dashboard exploring Vancouver's electronic music scene using event data from Resident Advisor.
 
-**About This Project**
+**About This Project** <br>
 This project analyzes 1,192 nightlife events in Vancouver from 2025 to identify trends, patterns, and insights about the local music scene.
 **Data Source:** Resident Advisor (scraped event data)
 **Location:** Vancouver, British Columbia, Canada
