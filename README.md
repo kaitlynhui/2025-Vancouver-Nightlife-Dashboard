@@ -20,7 +20,7 @@ An exploratory data analysis project exploring Vancouver's electronic music scen
 
 ## Project Overview
 
-This project started from a simple question: what does the structure of Vancouver's nightlife scene actually look like when you put it in a spreadsheet? Resident Advisor publishes event listings publicly, but there is no clean dataset of Vancouver events available anywhere. This project builds that dataset from scratch and uses it to answer questions about timing, genre, venue performance, and what predicts whether an event gets traction.
+This project started from a simple question: what does the structure of Vancouver's nightlife scene actually look like when you put it in a spreadsheet? Resident Advisor publishes event listings publicly, but there is no clean dataset of Vancouver events available anywhere. This project builds that dataset from scratch and uses it to gain insights about timing, genre, venue performance, and what predicts whether an event gets traction.
 
 The goal was not just to describe the scene but to apply real analytical methods (statistical testing, clustering, time series analysis, and machine learning) to a domain that does not usually get this treatment.
 
