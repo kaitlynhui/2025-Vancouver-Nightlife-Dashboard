@@ -4,10 +4,11 @@
 A data analysis dashboard exploring Vancouver's electronic music scene using event data from Resident Advisor.
 
 **About This Project** <br>
-This project analyzes 1,192 nightlife events in Vancouver from 2025 to identify trends, patterns, and insights about the local music scene.
-**Data Source:** Resident Advisor (scraped event data)
-**Location:** Vancouver, British Columbia, Canada
-**Time Period:** January 1 - December 31 2025
+This project analyzes 1,192 nightlife events in Vancouver from 2025 to identify trends, patterns, and insights about the local electronic music scene in Vancouver, British Columbia.
+
+- **Data Source:** Resident Advisor (scraped event data)
+- **Location:** Vancouver, British Columbia, Canada
+- **Time Period:** January 1 - December 31 2025
 
 **What's Included**
 - Data Cleaning Script (clean_data.py) 
