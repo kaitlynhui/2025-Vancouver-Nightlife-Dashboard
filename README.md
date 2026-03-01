@@ -89,14 +89,14 @@ Time Series:
 - Trend analysis
 
 **Technical Stack**
-Python 3.9+
-Pandas - Data manipulation
-NumPy - Numerical operations
-Matplotlib/Seaborn - Statistical plotting
-Plotly - Interactive charts
-Streamlit - Web dashboard
-Scikit-learn - Machine learning
-SciPy - Statistical tests
+- Python 3.9+
+- Pandas
+- NumPy
+- Matplotlib/Seaborn
+- Plotly
+- Streamlit
+- Scikit-learn 
+- SciPy
 
 **Future Improvements**
 - Add sentiment analysis from event descriptions
@@ -106,10 +106,10 @@ SciPy - Statistical tests
 - Build recommendation system
 
 **Data Notes**
-"Number of guests attending" refers to RSVPs/interested on Resident Advisor, not actual attendance
-Some venues listed as "TBA" (to be announced)
-11 events were cancelled (0.9%)
-89.8% of events have RSVP data
+- "Number of guests attending" refers to RSVPs/interested on Resident Advisor, not actual attendance
+- Some venues listed as "TBA" (to be announced)
+- 11 events were cancelled (0.9%)
+- 89.8% of events have RSVP data
 
 **Contact**
 Questions about this project? Feel free to reach out!
