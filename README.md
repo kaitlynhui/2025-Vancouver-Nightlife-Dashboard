@@ -1,6 +1,6 @@
 # Vancouver Nightlife Analysis (2025)
 
-A data analysis project exploring Vancouver's electronic music scene using event data scraped from Resident Advisor. The dataset covers 1,181 non-cancelled events from January to December 2025 across 199 venues.
+An exploratory data analysis project exploring Vancouver's electronic music scene using event data scraped from Resident Advisor. The dataset covers 1,181 non-cancelled events from January to December 2025 across 199 venues.
 
 ---
 
