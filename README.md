@@ -4,7 +4,7 @@ A data analysis project exploring Vancouver's electronic music scene using event
 
 ---
 
-## Table of Contents
+## Table of Contents 
 
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
