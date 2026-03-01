@@ -11,6 +11,22 @@ st.set_page_config(
     layout="wide"
 )
 
+st.markdown("""
+<style>
+    .stApp { background-color: #151515; }
+    [data-testid="stSidebar"] { background-color: #000000; }
+    [data-testid="stSidebar"] * { color: #ffffff; }
+    h1, h2, h3, p, label, .stMarkdown, .stText { color: #ffffff; }
+    [data-testid="stMetricValue"] { color: #ffffff; }
+    [data-testid="stMetricLabel"] { color: #aaaaaa; }
+    div[data-testid="stAlert"] { background-color: #FF4848 !important; color: #ffffff !important; border: none; }
+    .stSuccess { background-color: #FF4848 !important; color: #ffffff !important; border: none; }
+    .stInfo { background-color: #FF4848 !important; color: #ffffff !important; border: none; }
+    [data-testid="stDownloadButton"] button { background-color: #FF4848; color: #ffffff; border: none; }
+    .stDataFrame { background-color: #1e1e1e; }
+</style>
+""", unsafe_allow_html=True)
+
 st.title("2025 Vancouver Rave / Nightlife Analysis")
 st.write("Data is scraped from Resident Advisor")
 st.markdown("---")
