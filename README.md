@@ -189,4 +189,4 @@ K-means clustering is sensitive to initial conditions and the choice of k. The f
 
 ## License
 
-Student project for educational purposes. Event data sourced from Resident Advisor.
+Student project for educational purposes. Publically available event data sourced from Resident Advisor.
